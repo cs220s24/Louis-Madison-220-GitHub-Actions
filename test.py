@@ -1,1 +1,2 @@
-print ("this is test one")
+def test_addition():
+    assert 1 + 2 == 3
